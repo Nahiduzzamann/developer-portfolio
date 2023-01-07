@@ -3,11 +3,9 @@
     font-family: open;
     font-family: 'Open Sans', sans-serif;
 }
-.header{   
-    background-image: url(../images/rainbow\ background.jpeg);
-    background-repeat: no-repeat;
-    background-position: right bottom;
-    margin-right: 200px;
+.header{  
+    background-color: rgb(176, 180, 153); 
+    
 }
 .nav-bar{
     display: flex;
