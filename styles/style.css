@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    font-family: open;
+    font-family: 'Open Sans', sans-serif;
+}
+.header{   
+    background-image: url(../images/rainbow\ background.jpeg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    margin-right: 200px;
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+.banner-para{
+    margin-bottom: 5px;
+}
+nav li{
+    margin-left: 10px;
+}
+.text-primary-color{
+    color: rgb(196, 149, 47);
+}
+.nav-bar{
+    margin: 0px 200px;
+    
+}
+.primary-btn{
+    background-color: hsla(58, 71%, 62%, 0.952);
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: aliceblue;
+}
+.banner{
+    margin: 0 200px;
+    display: flex;
+    align-items: center;
+}
+.intro-banner{
+    
+}
