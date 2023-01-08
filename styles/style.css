@@ -94,3 +94,25 @@ nav li{
     margin-top: 10px;
     margin-bottom: 10px;
 }
+.edu-cart{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.exp-cart{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.contact{
+    display: flex;
+    gap: 100px;
+    background-color: rgb(190, 197, 159);
+    padding: 130px 200px;
+}
+.contact input[type="text"],input[type="email"],textarea{
+    margin-bottom: 20px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+    border-radius: 5px;
+
+}
