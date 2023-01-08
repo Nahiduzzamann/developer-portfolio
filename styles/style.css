@@ -17,7 +17,7 @@ nav ul{
     align-items: center;
 }
 .banner-para{
-    margin-bottom: 5px;
+    margin-bottom: 15px;
 }
 nav li{
     margin-left: 10px;
@@ -41,6 +41,56 @@ nav li{
     display: flex;
     align-items: center;
 }
-.intro-banner{
+.main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about{
+    margin-top: 130px;
+    background-color: rgb(204, 217, 158);
+    border-radius: 10px;
+    padding: 130px 150px;
+}
+.section-title{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.details{
+    display: flex;
+    justify-content: space-around;
+}
+.about-details{
+    color: rgb(35, 32, 32);
+    margin-bottom: 10px;
+}
+.about-info{
+    text-align: center;
+}
+.what-i-do{
+   margin-bottom: 50px; 
+    margin-top: 130px;
+}
+.skill-section{
+    display: flex;
+    gap: 50px;
+}
+.skill-title{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: larger;
     
+}
+.skill-description{
+    background-color: rgb(220, 222, 201);
+    box-shadow: 0px 6px 50px rgb(209, 201, 201);
+    border-radius: 5px;
+    padding: 30px;
+}
+.edu-title{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.exp-title{
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
